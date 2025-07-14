@@ -4,6 +4,8 @@ for routerr 1
 ```bash
 hello
 
-for another router
+# OSPF_EiGRP-Redistribution
+for routerr 1
+
 ```bash
-fore1
+hello
