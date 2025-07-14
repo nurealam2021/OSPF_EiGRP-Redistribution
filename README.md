@@ -1,7 +1,6 @@
 # OSPF_EiGRP-Redistribution
-##Step 1
+for routerr 1
 
 ```bash
-#this a command
 hello
 
