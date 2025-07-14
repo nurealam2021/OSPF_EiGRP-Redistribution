@@ -2,6 +2,5 @@
 ##Step 1
 
 ```bash
-git clone dolon
-cd your-repo
+hello
 
