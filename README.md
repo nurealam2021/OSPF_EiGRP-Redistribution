@@ -2,5 +2,6 @@
 ##Step 1
 
 ```bash
+#this a command
 hello
 
