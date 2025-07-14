@@ -4,22 +4,4 @@ for routerr 1
 ```bash
 hello world
 
-for routerr 1
-
-```bash
-hello world
-
-for routerr 1
-
-```bash
-hello world
-
-for routerr 1
-
-```bash
-hello world
-
-for routerr 1
-
-```bash
-hello world
+```ospf
