@@ -1,9 +1,7 @@
 # OSPF_EiGRP-Redistribution
-Configuration with Command
-<pre> ```dolon ``` </pre>
-## Installation
+##Step 1
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone dolon
 cd your-repo
 
