@@ -12,7 +12,7 @@ This lab demonstrates basic **route redistribution** between OSPF and EIGRP usin
 
 ##  Lab Setup Instructions
 
-### Step 1: Open GNS#
+### Step 1: Open GNS3#
 
 - **R2** runs OSPF (Area 0)
 - **R3** runs EIGRP (AS 10)
